@@ -12,4 +12,4 @@
    - Version annotations
 
 <br><br><br>
-**Please Do Not Edit the FIle "configuration.txt"**
+**Please Do Not Edit the FIle "config.txt"**
